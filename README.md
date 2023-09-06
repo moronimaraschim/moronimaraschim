@@ -6,7 +6,7 @@
     name: 'Moroni Maraschim',
     age: 22,
     city: 'Criciuma, SC',
-    learning: ['RobotFramework', 'Cypress', 'JMeter'],
+    learning: ['Robot', 'Cypress', 'JMeter'],
     hobby: 'I love game dev, animes, cooking and travel',
     drinking: 'Energy Drink'
   };
