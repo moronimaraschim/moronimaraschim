@@ -4,11 +4,10 @@
 ```javascript
   let user = {
     name: 'Moroni Maraschim',
-    age: 22,
+    age: 23,
     city: 'Criciuma, SC',
-    learning: ['Robot', 'Cypress', 'JMeter'],
+    learning: ['Appium', 'Robot', 'Cypress', 'JMeter'],
     hobby: 'I love game dev, animes, cooking and travel',
-    drinking: 'Energy Drink'
   };
   
   console.log("Hope you have a nice day!");
